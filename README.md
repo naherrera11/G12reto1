@@ -1,13 +1,16 @@
-# Reto # 1
+# app1
 
-Proyecto base para el primer reto
+A new Flutter project.
 
-El código incluye comentarios que explican la estructura del proyecto y los puntos en los que se tiene que trabajar están marcados con un TODO. 
+## Getting Started
 
-El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades adicionales o mejoras a la interfaz son permitidas):
+This project is a starting point for a Flutter application.
 
-<img src="https://user-images.githubusercontent.com/4458129/173209201-ecf02c3e-8571-42a0-92d5-5a9111f5b3b0.gif" width="300" />
+A few resources to get you started if this is your first Flutter project:
 
-Solución:
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-https://github.com/MisionTIC4b/f_currency_converter
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
